@@ -1,2 +1,1 @@
-# corona-virus
-just another repository
+echo "# flutter_dual_screen"
