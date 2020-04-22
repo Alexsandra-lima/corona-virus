@@ -104,7 +104,7 @@ main{
 		display: block;
 }
 .mySlides{
-    width:100%;
+    width: 980px;
     height: 350px;
 }
 button.slick-prev{
