@@ -93,7 +93,8 @@ main{
     margin-bottom: 3%;
 }
 .slider-principal{
-        width: 65%!important;
+        width: 70%!important;
+        height: 350px;
         margin: auto;
         margin-right: auto;
 		margin-left: auto;
