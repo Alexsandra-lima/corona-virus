@@ -103,7 +103,9 @@ main{
 		position: relative;
 		display: block;
 }
-
+.notdesc{
+    margin: 10px;
+}
 button.slick-prev{
     font-size: 0px;
     border: none;
