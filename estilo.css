@@ -93,8 +93,7 @@ main{
     margin-bottom: 3%;
 }
 .slider-principal{
-        width: 70%!important;
-        height: 350px;
+        width: 50%!important;
         margin: auto;
         margin-right: auto;
 		margin-left: auto;
@@ -104,10 +103,7 @@ main{
 		position: relative;
 		display: block;
 }
-.mySlides{
-    width: 550px;
-    height: 350px;
-}
+
 button.slick-prev{
     font-size: 0px;
     border: none;
